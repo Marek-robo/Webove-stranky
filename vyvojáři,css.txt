@@ -1,0 +1,154 @@
+@CHARSET "UTF-8";
+
+body {
+	background: linear-gradient(120deg, #000000, #3a3a3a);
+}
+
+.hl1 {
+	margin-left: 100px;
+	width: 1700px;
+	height: 2300px;
+	background: linear-gradient(120deg, #000000, #3a3a3a);
+	float: left;
+}
+
+.ob1 {
+	width: 1700px;
+	weight: 400px;
+	margin: auto;
+	float: left;
+}
+
+.l1 {
+	float: left;
+	width: 1700px;
+	weight: 48px;
+	background: linear-gradient(90deg, #4d4d4d, #b0b0b0, #4d4d4d);
+}
+
+li {
+	font-family: "Arial Black";
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+	text-shadow: 0 1px 0 #b38728, 0 2px 0 #a07622, 0 3px 0 #8a651d, 0 4px
+		1px rgba(0, 0, 0, 0.5);
+	transition: text-shadow ease 0.5s;
+}
+
+li:hover {
+	text-shadow: 0 1px 0 #b38728, 0 2px 0 #a07622, 0 3px 0 #8a651d, 0 4px
+		1px rgba(0, 0, 0, 0.5), 0 0 15px rgba(212, 175, 55, 1), 0 0 25px
+		rgba(212, 175, 55, 1);
+	transition: text-shadow ease 0.5s;
+}
+
+li a {
+	color: white; /* Barva textu odkazu */
+	text-decoration: none; /* Odstranění podtržení */
+}
+
+li a:hover {
+	color: white; /* Barva odkazu při najetí */
+	text-decoration: none; /* Zachování stylu bez podtržení při najetí */
+}
+
+.n1 {
+	margin-top: 50px;
+	float: left;
+	width: 1700px;
+	height: 50px;
+}
+
+.nn1 {
+	width: 1600px;
+	height: 1px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.t1 {
+	font-family: "Arial";
+	margin-left: 100px;
+	float: left;
+	color: white;
+	width: 900px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+}
+
+.ob2 {
+	float: left;
+	width: 300px;
+	height: 400px;
+	width: 300px;
+	margin-left: 100px;
+}
+
+.t2 {
+	margin-top: 200px;
+	font-family: "Arial";
+	margin-left: 100px;
+	float: left;
+	color: white;
+	width: 900px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+}
+
+.ob3 {
+	margin-top: 200px;
+	float: left;
+	width: 300px;
+	height: 400px;
+	width: 300px;
+	margin-left: 100px;
+}
+
+hl {
+	font-size: 30px;
+}
+
+.custom-underline {
+	display: inline-block;
+	position: relative;
+	font-size: 30px; /* Velikost textu */
+	color: white; /* Barva textu */
+	text-decoration: none; /* Odstranění výchozího podtržení */
+}
+
+.custom-underline::after {
+	content: ""; /* Vytvoří prázdný obsah pro podtržení */
+	position: absolute; /* Umístění vůči rodiči */
+	left: 0; /* Zarovnání vlevo */
+	bottom: 0; /* Podtržení těsně pod textem */
+	width: 100%; /* Délka podtržení */
+	height: 3px; /* Tloušťka podtržení */
+	background-color: rgb(196, 155, 41);;
+	z-index: 1; /* Pseudoelement bude viditelný nad bílým pozadím */
+}
+
+.t3 {
+	margin-top: 200px;
+	font-family: "Arial";
+	margin-left: 100px;
+	float: left;
+	color: white;
+	width: 900px;
+	font-size: 20px;
+	height: 350px;
+	text-align: justify;
+}
+
+.ob4 {
+	margin-top: 200px;
+	float: left;
+	width: 300px;
+	height: 400px;
+	width: 300px;
+	margin-left: 100px;
+}

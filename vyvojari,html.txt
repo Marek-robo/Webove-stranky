@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="Profil.css" />
+<title>Vývojáři</title>
+<style>
+ul {
+	list-style-type: none;
+	padding: 20;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	margin-right: 65px;
+}
+</style>
+</head>
+<body>
+	<div class="hl1">
+
+		<div class="ob1">
+			<img src="obbbb.jpg" height="400px" width="1700px">
+
+		</div>
+
+
+		<div class="l1">
+			<ul>
+				<li><a href="Maturita.html">HLAVNÍ STRANKA</a></li>
+				<li>FOTO</li>
+				<li>DOKUMENTACE</li>
+				<li><a href="Profil.html">VÝVOJÁŘI</a></li>
+			</ul>
+
+		</div>
+
+		<div class="n1">
+			<div class="nn1"></div>
+		</div>
+		<div class="t1">
+			<hl class="custom-underline">MAREK MATOUŠ </hl>
+			<p>Žák 4. ročníku oboru informační technologie.</p>
+			<p>Věk: 19 let</p>
+			<p>Koníčky: Skateboarding,programování, modifikace aut</p>
+			<p>Práce na projektu: Hlavní programátor, zapojení fyzických
+				součástek, pájení.</p>
+		</div>
+
+		<div class="ob2">
+			<img src="taky.jpg" height="500px" width="350  px">
+		</div>
+
+
+
+		<div class="t2">
+			<hl class="custom-underline">RICHARD PŘIKRYL</hl>
+			<p>Žák 4. ročníku oboru informační technologie.</p>
+			<p>Věk: 19 let</p>
+			<p>Koníčky: Skateboarding, malování, sledování anime.</p>
+			<p>Práce na projektu: Hlavní designer, vývojář webových stránek,
+				tisk 3D modelů.</p>
+		</div>
+		<div class="ob3">
+			<img src="idk.jpg" height="500px" width="350  px">
+		</div>
+
+		<div class="t3">
+			<hl class="custom-underline">SOUTĚŽE</hl>
+			<p>Učastnili jsme se na mezinárodní soutěži ROBO 2024.</</p>
+			<p>Číslo týmu bylo 23.</p>
+			<p>Celkové umístění:6 z 23 týmu.
+		</div>
+		<div class="ob4">
+			<img src="cislo.png" height="350px" width="500  px">
+		</div>
+
+
+
+
+
+
+	</div>
+
+</body>
+</html>
