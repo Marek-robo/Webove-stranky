@@ -1,0 +1,129 @@
+ZDROJOVÝ KÓD HTML "MATURITA"
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="maturita.css" />
+<title>Automatická Sekačka</title>
+<style>
+ul {
+	list-style-type: none;
+	padding: 20;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	margin-right: 65px;
+}
+</style>
+</head>
+<body>
+	<div class="hl1">
+		<div class="ob1">
+			<img src="obbbb.jpg" height="400px" width="1700px">
+
+		</div>
+
+
+		<div class="l1">
+			<ul>
+				<li><a href="Maturita.html">HLAVNÍ STRANKA</a></li>
+				<li>FOTO</li>
+				<li>DOKUMENTACE</li>
+				<li><a href="Profil.html">VÝVOJÁŘI</a></li>
+			</ul>
+
+		</div>
+
+		<div class="n1">
+			<div class="nn1"></div>
+		</div>
+		<div class="t1">
+			<hl>AUTOMATICKÁ SEKAČKA</hl>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+				ultrices mi ipsum, rhoncus efficitur orci malesuada eget. Donec
+				blandit sem id arcu ullamcorper auctor. Duis venenatis, arcu sed
+				fermentum dignissim, eros tellus congue massa, ac tempus est eros at
+				lorem. Mauris semper lacus interdum lacus sagittis elementum. Nam in
+				libero non ante consectetur scelerisque ut non urna. In hac
+				habitasse platea dictumst. Integer suscipit sem non accumsan
+				gravida. Nunc odio nunc, molestie faucibus luctus at, semper nec
+				eros. Donec tincidunt sem a condimentum accumsan. Sed aliquet
+				iaculis luctus. Nullam lectus elit, congue accumsan tortor sed,
+				facilisis vehicula leo. Nullam blandit eros lorem. Aenean non
+				pellentesque nibh. Nunc imperdiet turpis eu accumsan congue. Aenean
+				blandit tincidunt dolor id commodo. Donec orci felis, tincidunt a
+				iaculis nec, lobortis a tellus. Vestibulum iaculis erat non metus
+				ultrices, eu congue enim euismod.</p>
+			<p>Pellentesque porta semper hendrerit. Curabitur blandit
+				tincidunt libero eget sollicitudin. Nullam euismod quam est, a
+				consequat lectus ultricies vel. Mauris tempus euismod odio sed
+				eleifend. Donec at ultrices purus. Fusce sit amet tortor eget nisl
+				facilisis pretium. Sed sit amet vestibulum purus. Mauris tempus
+				tempor risus, eu malesuada enim vestibulum a. Etiam efficitur nisl
+				et dapibus placerat. Donec in ex et risus viverra pharetra. Duis
+				euismod varius justo, nec mollis purus laoreet iaculis. Curabitur
+				venenatis arcu odio, ut gravida magna tincidunt vitae. Cras laoreet
+				sollicitudin velit ut venenatis. Interdum et malesuada fames ac ante
+				ipsum primis in faucibus. Ut lacinia, nulla sed sagittis rhoncus,
+				lectus mi malesuada est, vitae posuere elit turpis ac ligula.</p>
+		</div>
+
+		<div class="ob2">
+			<img src="seka.jpg" height="400px" width="550  px">
+		</div>
+
+		<div class="ob3">
+			<img src="sekaa.png" height="400px" width="550  px">
+		</div>
+
+		<div class="t2">
+			<hl>Cíl Našeho projektu</hl>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+				ultrices mi ipsum, rhoncus efficitur orci malesuada eget. Donec
+				blandit sem id arcu ullamcorper auctor. Duis venenatis, arcu sed
+				fermentum dignissim, eros tellus congue massa, ac tempus est eros at
+				lorem. Mauris semper lacus interdum lacus sagittis elementum. Nam in
+				libero non ante consectetur scelerisque ut non urna. In hac
+				habitasse platea dictumst. Integer suscipit sem non accumsan
+				gravida. Nunc odio nunc, molestie faucibus luctus at, semper nec
+				eros. Donec tincidunt sem a condimentum accumsan. Sed aliquet
+				iaculis luctus. Nullam lectus elit, congue accumsan tortor sed,
+				facilisis vehicula leo. Nullam blandit eros lorem. Aenean non
+				pellentesque nibh. Nunc imperdiet turpis eu accumsan congue. Aenean
+				blandit tincidunt dolor id commodo. Donec orci felis, tincidunt a
+				iaculis nec, lobortis a tellus. Vestibulum iaculis erat non metus
+				ultrices, eu congue enim euismod.</p>
+			<p>Pellentesque porta semper hendrerit. Curabitur blandit
+				tincidunt libero eget sollicitudin. Nullam euismod quam est, a
+				consequat lectus ultricies vel. Mauris tempus euismod odio sed
+				eleifend. Donec at ultrices purus. Fusce sit amet tortor eget nisl
+				facilisis pretium. Sed sit amet vestibulum purus. Mauris tempus
+				tempor risus, eu malesuada enim vestibulum a. Etiam efficitur nisl
+				et dapibus placerat. Donec in ex et risus viverra pharetra. Duis
+				euismod varius justo, nec mollis purus laoreet iaculis. Curabitur
+				venenatis arcu odio, ut gravida magna tincidunt vitae. Cras laoreet
+				sollicitudin velit ut venenatis. Interdum et malesuada fames ac ante
+				ipsum primis in faucibus. Ut lacinia, nulla sed sagittis rhoncus,
+				lectus mi malesuada est, vitae posuere elit turpis ac ligula.</p>
+		</div>
+
+
+
+
+
+
+
+
+	</div>
+
+</body>
+</html>
